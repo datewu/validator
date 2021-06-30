@@ -1,3 +1,3 @@
-module github.com/datewu/project-lib
+module github.com/datewu/validator
 
 go 1.16
